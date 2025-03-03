@@ -1,1 +1,1 @@
-# SmartScan — ein_innovatives_Selbstbedienungskassensystem
+# SmartScan — ein innovatives Selbstbedienungskassensystem
