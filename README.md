@@ -2,6 +2,9 @@
 
 Dieses Projekt wurde im Rahmen des **Jugend forscht** Wettbewerbs entwickelt und gewann den **2. Preis in der Regionalrunde** im Fachgebiet "Arbeitswelt". Leider wurde es nicht weitergelassen, da die Jury es nicht als passend für das Themengebiet einstufte. Das Projekt wurde vollständig eigenständig ohne Unterstützung – auch nicht durch meinen Teamkollegen – realisiert.  
 
+![image](https://github.com/user-attachments/assets/b2d8f8bb-793a-405b-b035-5b70e5beec36)
+
+
 ## Projektübersicht  
 
 Supermarktkassen erfordern entweder Personal oder die manuelle Interaktion der Kunden. Unser Ziel war es, diese Prozesse mit **Computer Vision** zu automatisieren und eine Selbst-Checkout-Kasse zu entwickeln, die **ohne Barcodes und Kassierer auskommt**.  
