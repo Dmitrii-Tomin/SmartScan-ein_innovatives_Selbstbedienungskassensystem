@@ -26,7 +26,8 @@ Das entwickelte System erkennt Produkte **automatisch und zuverlässig**, wodurc
 In diesem Repository sind enthalten:  
 - Die vollständige Arbeit  
 - Das Präsentationsplakat  
-- Der Quellcode und das Skript  
+- Der Quellcode und die Skripte für das Scannen und das Förderband
+- Ein demonstrierendes Video
 
 ## Fazit  
 
