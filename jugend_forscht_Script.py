@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from picamera2 import Picamera2
 from ultralytics import YOLO
 from collections import Counter
-from stepper import move_stepper
+from jugend_forscht_stepper import move_stepper
 import time
 
 class VisionApp:
